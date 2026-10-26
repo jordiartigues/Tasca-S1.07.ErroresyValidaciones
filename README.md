@@ -33,25 +33,25 @@ cd "Nivell I"
 5. Executar el primer exercici:
 
 ```bash
-php exercici1.php
+php exercise1.php
 ```
 
 6. Per executar el segon exercici, iniciar Apache des del panell de control de XAMPP i obrir el formulari al navegador:
 
 ```text
-http://localhost/Tasca-S1.07.ErroresyValidaciones/Nivell%20I/exercici2.html
+http://localhost/[la_teva_ruta]/Tasca-S1.07.ErroresyValidaciones/Nivell%20I/exercise2.html`
 ```
 
-El formulari envia les dades a `exercici2.php`, que processa i valida la informació introduïda.
+El formulari envia les dades a `exercise2.php`, que processa i valida la informació introduïda.
 
 ## Estructura del projecte
 
 ```text
 Tasca-S1.07.ErroresyValidaciones/
 └── Nivell I/
-    ├── exercici1.php
-    ├── exercici2.php
-    └── exercici2.html
+    ├── exercise1.php
+    ├── exercise2.php
+    └── exercise2.html
 ```
 
 ## Demo
